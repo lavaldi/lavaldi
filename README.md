@@ -17,8 +17,11 @@ Here are some ideas to get you started:
 
 I'm Claudia Valdivieso
 
-Christian ✝️, wife 👫, mother 👶 and web developer 👩‍💻 from Trujillo - Peru. 
-I currently work as Software Engineer at [@ableco](https://github.com/ableco), and sometimes I write here.
+Christian ✝️, wife 👫, mother 👶 and web developer 👩‍💻 from Trujillo - Peru.
+
+I currently work as Software Engineer at [@ableco](https://github.com/ableco).
+
+And sometimes I write [here](https://lavaldi.com/).
 
 Previously [@und-tech](https://github.com/und-tech).
 
