@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi there 👋
+
+I'm Claudia Valdivieso
+Christian ✝️, wife 👫, mother 👶 and web developer 👩‍💻 from Trujillo - Peru. 
+I currently work as Software Engineer at [@ableco](https://github.com/ableco), and sometimes I write here.
+
+Previously [@und-tech](https://github.com/und-tech).
+
+Repos are my own.
