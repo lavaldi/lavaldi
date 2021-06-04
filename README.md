@@ -19,7 +19,7 @@ I'm Claudia Valdivieso
 
 Christian ✝️, wife 👫, mother 👶 and web developer 👩‍💻 from Trujillo - Peru.
 
-I currently work as Web UI Developer at [@globant](https://github.com/globant).
+I'm currently work as Web UI Developer at [@globant](https://github.com/globant).
 
 And sometimes I write [here](https://lavaldi.com/).
 
