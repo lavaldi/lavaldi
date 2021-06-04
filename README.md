@@ -19,10 +19,10 @@ I'm Claudia Valdivieso
 
 Christian ✝️, wife 👫, mother 👶 and web developer 👩‍💻 from Trujillo - Peru.
 
-I currently work as Software Engineer at [@ableco](https://github.com/ableco).
+I currently work as Web UI Developer at [@globant](https://github.com/globant).
 
 And sometimes I write [here](https://lavaldi.com/).
 
-Previously [@und-tech](https://github.com/und-tech).
+Former [@ableco](https://github.com/ableco), [@und-tech](https://github.com/und-tech).
 
 Repos are my own.
