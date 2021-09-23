@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as Web UI Developer at [@globant](https://github.com/globant)
 
-- 📝 I sometimes write articles on [https://lavaldi.com/code/](https://lavaldi.com/code/)
+- 📝 I sometimes write articles on [https://lavaldi.com](https://lavaldi.com)
 
 - 📫 How to reach me **claumavaldivieso@gmail.com**
 
