@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **claumavaldivieso@gmail.com**
 
-- 📄 Know about my experiences [https://lavaldi.com/resume/](https://lavaldi.com/resume/)
+- 📄 Know about my experiences [https://lavaldi.com/about](https://lavaldi.com/about)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
