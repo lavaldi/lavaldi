@@ -17,4 +17,4 @@
 
 ![Claudia's GitHub stats](https://github-readme-stats.vercel.app/api?username=lavaldi&show_icons=true&theme=shades-of-purple)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lavaldi&layout=compact&theme=shades-of-purple)](https://github.com/lavaldi/github-readme-stats)
