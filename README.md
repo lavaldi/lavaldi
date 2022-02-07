@@ -1,7 +1,7 @@
 # Hi 👋, I'm Claudia Valdivieso
 ### A passionate frontend developer from Trujillo but who lives in Lima - Peru 🇵🇪
 
-- 🔭 I’m currently working as Web UI Developer at [@globant](https://github.com/globant)
+- 🔭 I’m currently working as Software Engineer at [@drafteame](https://github.com/drafteame)
 
 - 📝 I sometimes write articles on [https://lavaldi.com](https://lavaldi.com)
 
