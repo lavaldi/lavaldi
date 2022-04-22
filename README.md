@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as Frontend Engineer at [@drafteame](https://github.com/drafteame)
 
-- 📝 I sometimes write articles on [https://lavaldi.com](https://lavaldi.com)
+- 📝 I sometimes write articles on [https://escuelafrontend.com](https://escuelafrontend.com)
 
 - 📫 How to reach me **claumavaldivieso@gmail.com**
 
@@ -14,6 +14,13 @@
 <a href="https://twitter.com/lavaldi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lavaldi_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/claudia-valdivieso-castillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="claudia-valdivieso-castillo" height="30" width="40" /></a>
 </p>
+
+### ✍️ Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://lavaldi.com)
 
 ![Claudia's GitHub stats](https://github-readme-stats.vercel.app/api?username=lavaldi&show_icons=true&theme=shades-of-purple)
 
