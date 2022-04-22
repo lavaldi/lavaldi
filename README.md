@@ -18,6 +18,11 @@
 ### ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Copia profunda en JavaScript con structuredClone](https://lavaldi.com/blog/copia-profunda-en-javascript-con-structured-clone)
+- [Array.some&lpar;&rpar; y Array.every&lpar;&rpar;](https://lavaldi.com/blog/array-some-y-array-every)
+- [Cómo saber qué paquetes tengo linkeados en mi proyecto](https://lavaldi.com/blog/como-saber-que-paquetes-tengo-linkeados)
+- [gitk y git gui](https://lavaldi.com/blog/gitk-y-git-gui)
+- [git switch y git restore](https://lavaldi.com/blog/git-switch-y-git-restore)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://lavaldi.com)
