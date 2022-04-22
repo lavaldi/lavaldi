@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as Frontend Engineer at [@drafteame](https://github.com/drafteame)
 
-- 📝 I sometimes write articles on [https://escuelafrontend.com](https://escuelafrontend.com)
+- 📝 I sometimes write articles on [Escuela Frontend](https://www.escuelafrontend.com/instructores/claudia-valdivieso)
 
 - 📫 How to reach me **claumavaldivieso@gmail.com**
 
